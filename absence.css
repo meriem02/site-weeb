@@ -1,0 +1,33 @@
+label{
+    font-size: 4.5rem;
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 80px; left:600px;
+    color: #0e45ac
+}
+input{
+color: rgb(0, 0, 0);
+margin: 0px 5px 0px 6px;
+	height: 50px;
+	width: 180px;
+	font-size: 22px;
+	color: rgb(26, 7, 95);
+	outline: none;
+	cursor: pointer;
+	font-weight: bolder;
+	background: #bbbfe2;
+	border-radius: 25px;
+	border: 1px solid #3f4da5;
+	transition: 2s;
+    width: 30%;
+    position: relative;
+     top: 200px; left:600px;
+
+}
+body{
+
+    background: url(4.png) no-repeat;
+   
+}

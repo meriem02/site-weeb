@@ -1,0 +1,79 @@
+caption{
+    font-size: 1cm;
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: -100px; left:80px;
+    color: #0e45ac
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    table-layout: auto;
+width: -150%;
+}
+    td,
+    th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 0px 0px;
+    font-size: 1rem;
+    color: #031330
+    }
+    th {
+    background-color: rgb(235, 235, 235);
+    }
+    td {
+    text-align: center;
+    }
+    tr:nth-child(even) td {
+    background-color: rgb(250, 250, 250);
+    }
+    tr:nth-child(odd) td {
+    background-color: rgb(240, 240, 240);
+    }
+    .heman {
+    font: 1.4rem molot;
+    text-shadow: 1px 1px 1px #fff, 2px 2px 1px #000;
+    }
+    .skeletor {
+    font: 1rem rapscallion;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 0 #fff, 0 0 9px #000;
+    }
+    table {
+    border: medium solid #061f4e;
+    border-collapse: collapse;
+    width: 10%;
+    position :absolute;
+    top: 250px; left:400px;
+    }
+    th {
+    font-family: monospace;
+    border: thin solid #021842;
+    width: 700%;
+    padding: 0px;
+    margin: auto;
+    background-color: rgb(181, 208, 243);
+    background-image: url(sky.jpg);
+    }
+    td {
+    font-family: sans-serif;
+    border: thin solid #b1c6ee;
+    width: 1300%;
+    padding: 40px;
+    text-align: center;
+    background-color: #ffffff;
+    }
+    caption {
+    font-family: sans-serif;
+    }
+    body{
+    background: url(4.png) no-repeat;
+    }
+
+
+
+    
